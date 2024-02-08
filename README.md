@@ -1,4 +1,4 @@
-<mark>Implementation of KNN(K Nearest Neighbour) Algorithm</mark>
+<h1>Implementation of KNN(K Nearest Neighbour) Algorithm</h1>
 
 
 
